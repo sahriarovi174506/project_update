@@ -104,6 +104,9 @@
   }
 
   /* ========= service_section ========== */
+  .whyChoose {
+   padding-top: 0;
+  }
   .service_boxes {
     grid-template-columns: 1fr;
     gap: 3rem;
